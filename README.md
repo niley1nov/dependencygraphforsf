@@ -1,6 +1,6 @@
 This is fork repo of dependencygraphforsf
 
-Doing enhancements for permissions
+Doing enhancements
 
 # Dependency Graph for Salesforce
 
